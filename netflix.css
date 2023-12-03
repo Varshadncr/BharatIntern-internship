@@ -1,0 +1,75 @@
+.head{
+height:50px;
+width:auto;
+background-color:black;
+}
+.img{
+    height:50px;
+    width: 50px;
+}
+.content{
+    padding:10px;
+    color:white;
+    background-color:black;
+    height:40 px;
+    width:auto;
+}
+.bg-container{
+    background-image: url("https://res.cloudinary.com/da41qeo0g/image/upload/v1699633249/Allu_2022-2-2-6-0-56_thumbnail_ig8ojd.jpg");
+    height:400px ;
+    width:width;
+    background-size: cover;
+}
+.film{
+    color: black;
+    padding:10px;
+    font-style: italic;
+}
+.film-container{
+    background-color: black;
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+}
+.bu{
+    height: 30px;
+    width:100px;
+    background-color: white;
+    font-size: 15px;
+    border-width: 0px;
+}
+.bu1{
+    background-color: grey;
+    border-width: 0px;
+    height: 30px;
+    width:100px;
+    font-size: 15px;
+}
+.bu2{
+    background-color: black;
+    border-width: 0px;
+    height: 30px;
+    width:100px;
+    font-size: 12px;
+    color: white;
+}
+.pa{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+.bu4{
+    height: 30px;
+    width: 100px;
+    border-width: 0px;
+}
+.lc{
+    color: white;
+    background-color: black;
+}
